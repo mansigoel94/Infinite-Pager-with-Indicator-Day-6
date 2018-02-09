@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">viewPager_Video</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_up_for_free_music_on_your_phone_tablet_and_computer">Sign up for free music on your phone, tablet and computer.</string>
+    <string name="browse">Browse</string>
+    <string name="browse_desc">Explore top tracks, new releases and the right playlist for every moment</string>
+    <string name="search">Search</string>
+    <string name="search_desc">Looking for that special album or artist? Just search and hit play!</string>
+    <string name="running">Running</string>
+    <string name="runnig_desc">Music that perfectly matches your tempo.</string>
+    <string name="library">Your Library</string>
+    <string name="library_desc">Save any song, album or artist to your own music collection.</string>
+
+</resources>
